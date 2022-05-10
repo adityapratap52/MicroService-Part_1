@@ -1,0 +1,18 @@
+
+server:
+  port: 8082
+
+spring:
+  application:
+    name: contact-service
+
+eureka:
+  instance:
+    hostname: localhost
+
+# if eureka server port is 8761 then no configuration required otherwise use it
+
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8083/eureka

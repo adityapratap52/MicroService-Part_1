@@ -1,0 +1,13 @@
+server:
+  port: 8761
+
+# 8761 is the default port number of eureka server
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    waitTimeInMsWhenSyncEmpty: 0
+  instance:
+    hostname: localhost

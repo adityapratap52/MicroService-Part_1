@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroService-Part_1.iml" filepath="$PROJECT_DIR$/.idea/MicroService-Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka__server/eureka__server.iml" filepath="$PROJECT_DIR$/eureka__server/eureka__server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway_api/gateway_api.iml" filepath="$PROJECT_DIR$/gateway_api/gateway_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_contact/service_contact.iml" filepath="$PROJECT_DIR$/service_contact/service_contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_user/service_user.iml" filepath="$PROJECT_DIR$/service_user/service_user.iml" />
+    </modules>
+  </component>
+</project>
